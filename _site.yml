@@ -1,0 +1,9 @@
+name: "DelphTN.github.io"
+output_dir: "."
+navbar:
+  title: "Turner Delph"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
